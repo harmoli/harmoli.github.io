@@ -1,0 +1,33 @@
+.contactrow {
+  clear: both;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  left: 80px;
+  width: 440px;
+  padding: 20px 0px 20px;
+}
+
+.contactleft {
+  float: left;
+  text-align: right;
+  width: 100px;
+  margin:auto;
+  position:relative;
+  font-family: 'Simplifica';
+  font-size: 26px;
+  color: #f77486;
+}
+
+.contactright {
+  float: right;
+  text-align: left;
+  width: 300px;
+  padding: 0px 20px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+  color: #3d3d3d;
+}
+
+
