@@ -69,14 +69,9 @@
   transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
 }
 
-.navbar .nav li:hover, .nav a:hover {
+.navbar .nav li:hover, .nav a:hover, .nav li.active{
   border-bottom: 2px solid #f55856;
   text-decoration: none;
-}
-
-.nav li.active a {
-  background-color:  #3d3d3d;
-  color: #ffffff;
 }
 
 .headline {
